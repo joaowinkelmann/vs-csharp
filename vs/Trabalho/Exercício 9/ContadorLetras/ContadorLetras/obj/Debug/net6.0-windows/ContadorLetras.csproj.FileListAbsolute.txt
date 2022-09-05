@@ -1,0 +1,34 @@
+D:\Windows\Desktop\C#\vs\ContadorLetras\ContadorLetras\bin\Debug\net6.0-windows\ContadorLetras.exe
+D:\Windows\Desktop\C#\vs\ContadorLetras\ContadorLetras\bin\Debug\net6.0-windows\ContadorLetras.deps.json
+D:\Windows\Desktop\C#\vs\ContadorLetras\ContadorLetras\bin\Debug\net6.0-windows\ContadorLetras.runtimeconfig.json
+D:\Windows\Desktop\C#\vs\ContadorLetras\ContadorLetras\bin\Debug\net6.0-windows\ContadorLetras.dll
+D:\Windows\Desktop\C#\vs\ContadorLetras\ContadorLetras\bin\Debug\net6.0-windows\ContadorLetras.pdb
+D:\Windows\Desktop\C#\vs\ContadorLetras\ContadorLetras\obj\Debug\net6.0-windows\ContadorLetras.csproj.AssemblyReference.cache
+D:\Windows\Desktop\C#\vs\ContadorLetras\ContadorLetras\obj\Debug\net6.0-windows\ContadorLetras.Form1.resources
+D:\Windows\Desktop\C#\vs\ContadorLetras\ContadorLetras\obj\Debug\net6.0-windows\ContadorLetras.csproj.GenerateResource.cache
+D:\Windows\Desktop\C#\vs\ContadorLetras\ContadorLetras\obj\Debug\net6.0-windows\ContadorLetras.GeneratedMSBuildEditorConfig.editorconfig
+D:\Windows\Desktop\C#\vs\ContadorLetras\ContadorLetras\obj\Debug\net6.0-windows\ContadorLetras.AssemblyInfoInputs.cache
+D:\Windows\Desktop\C#\vs\ContadorLetras\ContadorLetras\obj\Debug\net6.0-windows\ContadorLetras.AssemblyInfo.cs
+D:\Windows\Desktop\C#\vs\ContadorLetras\ContadorLetras\obj\Debug\net6.0-windows\ContadorLetras.csproj.CoreCompileInputs.cache
+D:\Windows\Desktop\C#\vs\ContadorLetras\ContadorLetras\obj\Debug\net6.0-windows\ContadorLetras.dll
+D:\Windows\Desktop\C#\vs\ContadorLetras\ContadorLetras\obj\Debug\net6.0-windows\refint\ContadorLetras.dll
+D:\Windows\Desktop\C#\vs\ContadorLetras\ContadorLetras\obj\Debug\net6.0-windows\ContadorLetras.pdb
+D:\Windows\Desktop\C#\vs\ContadorLetras\ContadorLetras\obj\Debug\net6.0-windows\ContadorLetras.genruntimeconfig.cache
+D:\Windows\Desktop\C#\vs\ContadorLetras\ContadorLetras\obj\Debug\net6.0-windows\ref\ContadorLetras.dll
+D:\Windows\Desktop\C#\vs\Trabalho\Exercício 9\ContadorLetras\ContadorLetras\bin\Debug\net6.0-windows\ContadorLetras.exe
+D:\Windows\Desktop\C#\vs\Trabalho\Exercício 9\ContadorLetras\ContadorLetras\bin\Debug\net6.0-windows\ContadorLetras.deps.json
+D:\Windows\Desktop\C#\vs\Trabalho\Exercício 9\ContadorLetras\ContadorLetras\bin\Debug\net6.0-windows\ContadorLetras.runtimeconfig.json
+D:\Windows\Desktop\C#\vs\Trabalho\Exercício 9\ContadorLetras\ContadorLetras\bin\Debug\net6.0-windows\ContadorLetras.dll
+D:\Windows\Desktop\C#\vs\Trabalho\Exercício 9\ContadorLetras\ContadorLetras\bin\Debug\net6.0-windows\ContadorLetras.pdb
+D:\Windows\Desktop\C#\vs\Trabalho\Exercício 9\ContadorLetras\ContadorLetras\obj\Debug\net6.0-windows\ContadorLetras.csproj.AssemblyReference.cache
+D:\Windows\Desktop\C#\vs\Trabalho\Exercício 9\ContadorLetras\ContadorLetras\obj\Debug\net6.0-windows\ContadorLetras.Form1.resources
+D:\Windows\Desktop\C#\vs\Trabalho\Exercício 9\ContadorLetras\ContadorLetras\obj\Debug\net6.0-windows\ContadorLetras.csproj.GenerateResource.cache
+D:\Windows\Desktop\C#\vs\Trabalho\Exercício 9\ContadorLetras\ContadorLetras\obj\Debug\net6.0-windows\ContadorLetras.GeneratedMSBuildEditorConfig.editorconfig
+D:\Windows\Desktop\C#\vs\Trabalho\Exercício 9\ContadorLetras\ContadorLetras\obj\Debug\net6.0-windows\ContadorLetras.AssemblyInfoInputs.cache
+D:\Windows\Desktop\C#\vs\Trabalho\Exercício 9\ContadorLetras\ContadorLetras\obj\Debug\net6.0-windows\ContadorLetras.AssemblyInfo.cs
+D:\Windows\Desktop\C#\vs\Trabalho\Exercício 9\ContadorLetras\ContadorLetras\obj\Debug\net6.0-windows\ContadorLetras.csproj.CoreCompileInputs.cache
+D:\Windows\Desktop\C#\vs\Trabalho\Exercício 9\ContadorLetras\ContadorLetras\obj\Debug\net6.0-windows\ContadorLetras.dll
+D:\Windows\Desktop\C#\vs\Trabalho\Exercício 9\ContadorLetras\ContadorLetras\obj\Debug\net6.0-windows\refint\ContadorLetras.dll
+D:\Windows\Desktop\C#\vs\Trabalho\Exercício 9\ContadorLetras\ContadorLetras\obj\Debug\net6.0-windows\ContadorLetras.pdb
+D:\Windows\Desktop\C#\vs\Trabalho\Exercício 9\ContadorLetras\ContadorLetras\obj\Debug\net6.0-windows\ContadorLetras.genruntimeconfig.cache
+D:\Windows\Desktop\C#\vs\Trabalho\Exercício 9\ContadorLetras\ContadorLetras\obj\Debug\net6.0-windows\ref\ContadorLetras.dll

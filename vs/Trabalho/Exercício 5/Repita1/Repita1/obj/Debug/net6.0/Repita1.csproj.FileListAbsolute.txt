@@ -1,0 +1,15 @@
+D:\Windows\Desktop\C#\vs\Repita1\Repita1\obj\Debug\net6.0\Repita1.csproj.AssemblyReference.cache
+D:\Windows\Desktop\C#\vs\Repita1\Repita1\obj\Debug\net6.0\Repita1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Windows\Desktop\C#\vs\Repita1\Repita1\obj\Debug\net6.0\Repita1.AssemblyInfoInputs.cache
+D:\Windows\Desktop\C#\vs\Repita1\Repita1\obj\Debug\net6.0\Repita1.AssemblyInfo.cs
+D:\Windows\Desktop\C#\vs\Repita1\Repita1\obj\Debug\net6.0\Repita1.csproj.CoreCompileInputs.cache
+D:\Windows\Desktop\C#\vs\Repita1\Repita1\bin\Debug\net6.0\Repita1.exe
+D:\Windows\Desktop\C#\vs\Repita1\Repita1\bin\Debug\net6.0\Repita1.deps.json
+D:\Windows\Desktop\C#\vs\Repita1\Repita1\bin\Debug\net6.0\Repita1.runtimeconfig.json
+D:\Windows\Desktop\C#\vs\Repita1\Repita1\bin\Debug\net6.0\Repita1.dll
+D:\Windows\Desktop\C#\vs\Repita1\Repita1\bin\Debug\net6.0\Repita1.pdb
+D:\Windows\Desktop\C#\vs\Repita1\Repita1\obj\Debug\net6.0\Repita1.dll
+D:\Windows\Desktop\C#\vs\Repita1\Repita1\obj\Debug\net6.0\refint\Repita1.dll
+D:\Windows\Desktop\C#\vs\Repita1\Repita1\obj\Debug\net6.0\Repita1.pdb
+D:\Windows\Desktop\C#\vs\Repita1\Repita1\obj\Debug\net6.0\Repita1.genruntimeconfig.cache
+D:\Windows\Desktop\C#\vs\Repita1\Repita1\obj\Debug\net6.0\ref\Repita1.dll

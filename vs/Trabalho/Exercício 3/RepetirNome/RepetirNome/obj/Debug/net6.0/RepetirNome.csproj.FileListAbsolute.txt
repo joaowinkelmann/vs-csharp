@@ -1,0 +1,15 @@
+D:\Windows\Desktop\C#\vs\RepetirNome\RepetirNome\obj\Debug\net6.0\RepetirNome.csproj.AssemblyReference.cache
+D:\Windows\Desktop\C#\vs\RepetirNome\RepetirNome\obj\Debug\net6.0\RepetirNome.GeneratedMSBuildEditorConfig.editorconfig
+D:\Windows\Desktop\C#\vs\RepetirNome\RepetirNome\obj\Debug\net6.0\RepetirNome.AssemblyInfoInputs.cache
+D:\Windows\Desktop\C#\vs\RepetirNome\RepetirNome\obj\Debug\net6.0\RepetirNome.AssemblyInfo.cs
+D:\Windows\Desktop\C#\vs\RepetirNome\RepetirNome\obj\Debug\net6.0\RepetirNome.csproj.CoreCompileInputs.cache
+D:\Windows\Desktop\C#\vs\RepetirNome\RepetirNome\bin\Debug\net6.0\RepetirNome.exe
+D:\Windows\Desktop\C#\vs\RepetirNome\RepetirNome\bin\Debug\net6.0\RepetirNome.deps.json
+D:\Windows\Desktop\C#\vs\RepetirNome\RepetirNome\bin\Debug\net6.0\RepetirNome.runtimeconfig.json
+D:\Windows\Desktop\C#\vs\RepetirNome\RepetirNome\bin\Debug\net6.0\RepetirNome.dll
+D:\Windows\Desktop\C#\vs\RepetirNome\RepetirNome\bin\Debug\net6.0\RepetirNome.pdb
+D:\Windows\Desktop\C#\vs\RepetirNome\RepetirNome\obj\Debug\net6.0\RepetirNome.dll
+D:\Windows\Desktop\C#\vs\RepetirNome\RepetirNome\obj\Debug\net6.0\refint\RepetirNome.dll
+D:\Windows\Desktop\C#\vs\RepetirNome\RepetirNome\obj\Debug\net6.0\RepetirNome.pdb
+D:\Windows\Desktop\C#\vs\RepetirNome\RepetirNome\obj\Debug\net6.0\RepetirNome.genruntimeconfig.cache
+D:\Windows\Desktop\C#\vs\RepetirNome\RepetirNome\obj\Debug\net6.0\ref\RepetirNome.dll

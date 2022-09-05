@@ -1,0 +1,15 @@
+D:\Windows\Desktop\C#\vs\RepitaFatorial\RepitaFatorial\bin\Debug\net6.0\RepitaFatorial.exe
+D:\Windows\Desktop\C#\vs\RepitaFatorial\RepitaFatorial\bin\Debug\net6.0\RepitaFatorial.deps.json
+D:\Windows\Desktop\C#\vs\RepitaFatorial\RepitaFatorial\bin\Debug\net6.0\RepitaFatorial.runtimeconfig.json
+D:\Windows\Desktop\C#\vs\RepitaFatorial\RepitaFatorial\bin\Debug\net6.0\RepitaFatorial.dll
+D:\Windows\Desktop\C#\vs\RepitaFatorial\RepitaFatorial\bin\Debug\net6.0\RepitaFatorial.pdb
+D:\Windows\Desktop\C#\vs\RepitaFatorial\RepitaFatorial\obj\Debug\net6.0\RepitaFatorial.csproj.AssemblyReference.cache
+D:\Windows\Desktop\C#\vs\RepitaFatorial\RepitaFatorial\obj\Debug\net6.0\RepitaFatorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Windows\Desktop\C#\vs\RepitaFatorial\RepitaFatorial\obj\Debug\net6.0\RepitaFatorial.AssemblyInfoInputs.cache
+D:\Windows\Desktop\C#\vs\RepitaFatorial\RepitaFatorial\obj\Debug\net6.0\RepitaFatorial.AssemblyInfo.cs
+D:\Windows\Desktop\C#\vs\RepitaFatorial\RepitaFatorial\obj\Debug\net6.0\RepitaFatorial.csproj.CoreCompileInputs.cache
+D:\Windows\Desktop\C#\vs\RepitaFatorial\RepitaFatorial\obj\Debug\net6.0\RepitaFatorial.dll
+D:\Windows\Desktop\C#\vs\RepitaFatorial\RepitaFatorial\obj\Debug\net6.0\refint\RepitaFatorial.dll
+D:\Windows\Desktop\C#\vs\RepitaFatorial\RepitaFatorial\obj\Debug\net6.0\RepitaFatorial.pdb
+D:\Windows\Desktop\C#\vs\RepitaFatorial\RepitaFatorial\obj\Debug\net6.0\RepitaFatorial.genruntimeconfig.cache
+D:\Windows\Desktop\C#\vs\RepitaFatorial\RepitaFatorial\obj\Debug\net6.0\ref\RepitaFatorial.dll

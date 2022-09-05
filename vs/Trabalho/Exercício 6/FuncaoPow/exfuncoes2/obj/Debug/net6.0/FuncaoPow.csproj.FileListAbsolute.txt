@@ -1,0 +1,15 @@
+D:\Windows\Desktop\C#\vs\exfuncoes2\exfuncoes2\bin\Debug\net6.0\FuncaoPow.exe
+D:\Windows\Desktop\C#\vs\exfuncoes2\exfuncoes2\bin\Debug\net6.0\FuncaoPow.deps.json
+D:\Windows\Desktop\C#\vs\exfuncoes2\exfuncoes2\bin\Debug\net6.0\FuncaoPow.runtimeconfig.json
+D:\Windows\Desktop\C#\vs\exfuncoes2\exfuncoes2\bin\Debug\net6.0\FuncaoPow.dll
+D:\Windows\Desktop\C#\vs\exfuncoes2\exfuncoes2\bin\Debug\net6.0\FuncaoPow.pdb
+D:\Windows\Desktop\C#\vs\exfuncoes2\exfuncoes2\obj\Debug\net6.0\FuncaoPow.csproj.AssemblyReference.cache
+D:\Windows\Desktop\C#\vs\exfuncoes2\exfuncoes2\obj\Debug\net6.0\FuncaoPow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Windows\Desktop\C#\vs\exfuncoes2\exfuncoes2\obj\Debug\net6.0\FuncaoPow.AssemblyInfoInputs.cache
+D:\Windows\Desktop\C#\vs\exfuncoes2\exfuncoes2\obj\Debug\net6.0\FuncaoPow.AssemblyInfo.cs
+D:\Windows\Desktop\C#\vs\exfuncoes2\exfuncoes2\obj\Debug\net6.0\FuncaoPow.csproj.CoreCompileInputs.cache
+D:\Windows\Desktop\C#\vs\exfuncoes2\exfuncoes2\obj\Debug\net6.0\FuncaoPow.dll
+D:\Windows\Desktop\C#\vs\exfuncoes2\exfuncoes2\obj\Debug\net6.0\refint\FuncaoPow.dll
+D:\Windows\Desktop\C#\vs\exfuncoes2\exfuncoes2\obj\Debug\net6.0\FuncaoPow.pdb
+D:\Windows\Desktop\C#\vs\exfuncoes2\exfuncoes2\obj\Debug\net6.0\FuncaoPow.genruntimeconfig.cache
+D:\Windows\Desktop\C#\vs\exfuncoes2\exfuncoes2\obj\Debug\net6.0\ref\FuncaoPow.dll

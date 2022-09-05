@@ -1,0 +1,15 @@
+D:\Windows\Desktop\C#\vs\matriz2\matriz2\obj\Debug\net6.0\matriz2.csproj.AssemblyReference.cache
+D:\Windows\Desktop\C#\vs\matriz2\matriz2\obj\Debug\net6.0\matriz2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Windows\Desktop\C#\vs\matriz2\matriz2\obj\Debug\net6.0\matriz2.AssemblyInfoInputs.cache
+D:\Windows\Desktop\C#\vs\matriz2\matriz2\obj\Debug\net6.0\matriz2.AssemblyInfo.cs
+D:\Windows\Desktop\C#\vs\matriz2\matriz2\obj\Debug\net6.0\matriz2.csproj.CoreCompileInputs.cache
+D:\Windows\Desktop\C#\vs\matriz2\matriz2\bin\Debug\net6.0\matriz2.exe
+D:\Windows\Desktop\C#\vs\matriz2\matriz2\bin\Debug\net6.0\matriz2.deps.json
+D:\Windows\Desktop\C#\vs\matriz2\matriz2\bin\Debug\net6.0\matriz2.runtimeconfig.json
+D:\Windows\Desktop\C#\vs\matriz2\matriz2\bin\Debug\net6.0\matriz2.dll
+D:\Windows\Desktop\C#\vs\matriz2\matriz2\bin\Debug\net6.0\matriz2.pdb
+D:\Windows\Desktop\C#\vs\matriz2\matriz2\obj\Debug\net6.0\matriz2.dll
+D:\Windows\Desktop\C#\vs\matriz2\matriz2\obj\Debug\net6.0\refint\matriz2.dll
+D:\Windows\Desktop\C#\vs\matriz2\matriz2\obj\Debug\net6.0\matriz2.pdb
+D:\Windows\Desktop\C#\vs\matriz2\matriz2\obj\Debug\net6.0\matriz2.genruntimeconfig.cache
+D:\Windows\Desktop\C#\vs\matriz2\matriz2\obj\Debug\net6.0\ref\matriz2.dll

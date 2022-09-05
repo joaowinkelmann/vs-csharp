@@ -1,0 +1,17 @@
+D:\Windows\Desktop\C#\vs\notasforms_oficial\notasforms_oficial\obj\Debug\net6.0-windows\notasforms_oficial.csproj.AssemblyReference.cache
+D:\Windows\Desktop\C#\vs\notasforms_oficial\notasforms_oficial\obj\Debug\net6.0-windows\notasforms_oficial.Form1.resources
+D:\Windows\Desktop\C#\vs\notasforms_oficial\notasforms_oficial\obj\Debug\net6.0-windows\notasforms_oficial.csproj.GenerateResource.cache
+D:\Windows\Desktop\C#\vs\notasforms_oficial\notasforms_oficial\obj\Debug\net6.0-windows\notasforms_oficial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Windows\Desktop\C#\vs\notasforms_oficial\notasforms_oficial\obj\Debug\net6.0-windows\notasforms_oficial.AssemblyInfoInputs.cache
+D:\Windows\Desktop\C#\vs\notasforms_oficial\notasforms_oficial\obj\Debug\net6.0-windows\notasforms_oficial.AssemblyInfo.cs
+D:\Windows\Desktop\C#\vs\notasforms_oficial\notasforms_oficial\obj\Debug\net6.0-windows\notasforms_oficial.csproj.CoreCompileInputs.cache
+D:\Windows\Desktop\C#\vs\notasforms_oficial\notasforms_oficial\bin\Debug\net6.0-windows\notasforms_oficial.exe
+D:\Windows\Desktop\C#\vs\notasforms_oficial\notasforms_oficial\bin\Debug\net6.0-windows\notasforms_oficial.deps.json
+D:\Windows\Desktop\C#\vs\notasforms_oficial\notasforms_oficial\bin\Debug\net6.0-windows\notasforms_oficial.runtimeconfig.json
+D:\Windows\Desktop\C#\vs\notasforms_oficial\notasforms_oficial\bin\Debug\net6.0-windows\notasforms_oficial.dll
+D:\Windows\Desktop\C#\vs\notasforms_oficial\notasforms_oficial\bin\Debug\net6.0-windows\notasforms_oficial.pdb
+D:\Windows\Desktop\C#\vs\notasforms_oficial\notasforms_oficial\obj\Debug\net6.0-windows\notasforms_oficial.dll
+D:\Windows\Desktop\C#\vs\notasforms_oficial\notasforms_oficial\obj\Debug\net6.0-windows\refint\notasforms_oficial.dll
+D:\Windows\Desktop\C#\vs\notasforms_oficial\notasforms_oficial\obj\Debug\net6.0-windows\notasforms_oficial.pdb
+D:\Windows\Desktop\C#\vs\notasforms_oficial\notasforms_oficial\obj\Debug\net6.0-windows\notasforms_oficial.genruntimeconfig.cache
+D:\Windows\Desktop\C#\vs\notasforms_oficial\notasforms_oficial\obj\Debug\net6.0-windows\ref\notasforms_oficial.dll

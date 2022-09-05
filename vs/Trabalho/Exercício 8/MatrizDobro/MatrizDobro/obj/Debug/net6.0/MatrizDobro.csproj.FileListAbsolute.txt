@@ -1,0 +1,15 @@
+D:\Windows\Desktop\C#\vs\MatrizDobro\MatrizDobro\bin\Debug\net6.0\MatrizDobro.exe
+D:\Windows\Desktop\C#\vs\MatrizDobro\MatrizDobro\bin\Debug\net6.0\MatrizDobro.deps.json
+D:\Windows\Desktop\C#\vs\MatrizDobro\MatrizDobro\bin\Debug\net6.0\MatrizDobro.runtimeconfig.json
+D:\Windows\Desktop\C#\vs\MatrizDobro\MatrizDobro\bin\Debug\net6.0\MatrizDobro.dll
+D:\Windows\Desktop\C#\vs\MatrizDobro\MatrizDobro\bin\Debug\net6.0\MatrizDobro.pdb
+D:\Windows\Desktop\C#\vs\MatrizDobro\MatrizDobro\obj\Debug\net6.0\MatrizDobro.csproj.AssemblyReference.cache
+D:\Windows\Desktop\C#\vs\MatrizDobro\MatrizDobro\obj\Debug\net6.0\MatrizDobro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Windows\Desktop\C#\vs\MatrizDobro\MatrizDobro\obj\Debug\net6.0\MatrizDobro.AssemblyInfoInputs.cache
+D:\Windows\Desktop\C#\vs\MatrizDobro\MatrizDobro\obj\Debug\net6.0\MatrizDobro.AssemblyInfo.cs
+D:\Windows\Desktop\C#\vs\MatrizDobro\MatrizDobro\obj\Debug\net6.0\MatrizDobro.csproj.CoreCompileInputs.cache
+D:\Windows\Desktop\C#\vs\MatrizDobro\MatrizDobro\obj\Debug\net6.0\MatrizDobro.dll
+D:\Windows\Desktop\C#\vs\MatrizDobro\MatrizDobro\obj\Debug\net6.0\refint\MatrizDobro.dll
+D:\Windows\Desktop\C#\vs\MatrizDobro\MatrizDobro\obj\Debug\net6.0\MatrizDobro.pdb
+D:\Windows\Desktop\C#\vs\MatrizDobro\MatrizDobro\obj\Debug\net6.0\MatrizDobro.genruntimeconfig.cache
+D:\Windows\Desktop\C#\vs\MatrizDobro\MatrizDobro\obj\Debug\net6.0\ref\MatrizDobro.dll

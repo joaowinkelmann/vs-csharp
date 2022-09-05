@@ -1,0 +1,15 @@
+D:\Windows\Desktop\C#\vs\huf\huf\bin\Debug\net6.0\huf.exe
+D:\Windows\Desktop\C#\vs\huf\huf\bin\Debug\net6.0\huf.deps.json
+D:\Windows\Desktop\C#\vs\huf\huf\bin\Debug\net6.0\huf.runtimeconfig.json
+D:\Windows\Desktop\C#\vs\huf\huf\bin\Debug\net6.0\huf.dll
+D:\Windows\Desktop\C#\vs\huf\huf\bin\Debug\net6.0\huf.pdb
+D:\Windows\Desktop\C#\vs\huf\huf\obj\Debug\net6.0\huf.csproj.AssemblyReference.cache
+D:\Windows\Desktop\C#\vs\huf\huf\obj\Debug\net6.0\huf.GeneratedMSBuildEditorConfig.editorconfig
+D:\Windows\Desktop\C#\vs\huf\huf\obj\Debug\net6.0\huf.AssemblyInfoInputs.cache
+D:\Windows\Desktop\C#\vs\huf\huf\obj\Debug\net6.0\huf.AssemblyInfo.cs
+D:\Windows\Desktop\C#\vs\huf\huf\obj\Debug\net6.0\huf.csproj.CoreCompileInputs.cache
+D:\Windows\Desktop\C#\vs\huf\huf\obj\Debug\net6.0\huf.dll
+D:\Windows\Desktop\C#\vs\huf\huf\obj\Debug\net6.0\refint\huf.dll
+D:\Windows\Desktop\C#\vs\huf\huf\obj\Debug\net6.0\huf.pdb
+D:\Windows\Desktop\C#\vs\huf\huf\obj\Debug\net6.0\huf.genruntimeconfig.cache
+D:\Windows\Desktop\C#\vs\huf\huf\obj\Debug\net6.0\ref\huf.dll

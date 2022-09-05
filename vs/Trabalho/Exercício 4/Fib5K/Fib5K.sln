@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fib5K", "Fib5K\Fib5K.csproj", "{78236B17-FDCD-4DEC-B807-E5B00FAE34CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78236B17-FDCD-4DEC-B807-E5B00FAE34CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78236B17-FDCD-4DEC-B807-E5B00FAE34CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78236B17-FDCD-4DEC-B807-E5B00FAE34CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78236B17-FDCD-4DEC-B807-E5B00FAE34CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F069DA0-161B-4097-B1E5-7821FC5A1245}
+	EndGlobalSection
+EndGlobal

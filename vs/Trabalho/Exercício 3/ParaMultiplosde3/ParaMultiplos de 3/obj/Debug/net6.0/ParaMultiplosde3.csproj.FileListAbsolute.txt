@@ -1,0 +1,15 @@
+D:\Windows\Desktop\C#\vs\ParaMultiplos de 3\ParaMultiplos de 3\bin\Debug\net6.0\ParaMultiplosde3.exe
+D:\Windows\Desktop\C#\vs\ParaMultiplos de 3\ParaMultiplos de 3\bin\Debug\net6.0\ParaMultiplosde3.deps.json
+D:\Windows\Desktop\C#\vs\ParaMultiplos de 3\ParaMultiplos de 3\bin\Debug\net6.0\ParaMultiplosde3.runtimeconfig.json
+D:\Windows\Desktop\C#\vs\ParaMultiplos de 3\ParaMultiplos de 3\bin\Debug\net6.0\ParaMultiplosde3.dll
+D:\Windows\Desktop\C#\vs\ParaMultiplos de 3\ParaMultiplos de 3\bin\Debug\net6.0\ParaMultiplosde3.pdb
+D:\Windows\Desktop\C#\vs\ParaMultiplos de 3\ParaMultiplos de 3\obj\Debug\net6.0\ParaMultiplosde3.csproj.AssemblyReference.cache
+D:\Windows\Desktop\C#\vs\ParaMultiplos de 3\ParaMultiplos de 3\obj\Debug\net6.0\ParaMultiplosde3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Windows\Desktop\C#\vs\ParaMultiplos de 3\ParaMultiplos de 3\obj\Debug\net6.0\ParaMultiplosde3.AssemblyInfoInputs.cache
+D:\Windows\Desktop\C#\vs\ParaMultiplos de 3\ParaMultiplos de 3\obj\Debug\net6.0\ParaMultiplosde3.AssemblyInfo.cs
+D:\Windows\Desktop\C#\vs\ParaMultiplos de 3\ParaMultiplos de 3\obj\Debug\net6.0\ParaMultiplosde3.csproj.CoreCompileInputs.cache
+D:\Windows\Desktop\C#\vs\ParaMultiplos de 3\ParaMultiplos de 3\obj\Debug\net6.0\ParaMultiplosde3.dll
+D:\Windows\Desktop\C#\vs\ParaMultiplos de 3\ParaMultiplos de 3\obj\Debug\net6.0\refint\ParaMultiplosde3.dll
+D:\Windows\Desktop\C#\vs\ParaMultiplos de 3\ParaMultiplos de 3\obj\Debug\net6.0\ParaMultiplosde3.pdb
+D:\Windows\Desktop\C#\vs\ParaMultiplos de 3\ParaMultiplos de 3\obj\Debug\net6.0\ParaMultiplosde3.genruntimeconfig.cache
+D:\Windows\Desktop\C#\vs\ParaMultiplos de 3\ParaMultiplos de 3\obj\Debug\net6.0\ref\ParaMultiplosde3.dll

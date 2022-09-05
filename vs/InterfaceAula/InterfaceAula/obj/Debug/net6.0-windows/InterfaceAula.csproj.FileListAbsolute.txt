@@ -1,0 +1,17 @@
+D:\Windows\Desktop\C#\vs\InterfaceAula\InterfaceAula\bin\Debug\net6.0-windows\InterfaceAula.exe
+D:\Windows\Desktop\C#\vs\InterfaceAula\InterfaceAula\bin\Debug\net6.0-windows\InterfaceAula.deps.json
+D:\Windows\Desktop\C#\vs\InterfaceAula\InterfaceAula\bin\Debug\net6.0-windows\InterfaceAula.runtimeconfig.json
+D:\Windows\Desktop\C#\vs\InterfaceAula\InterfaceAula\bin\Debug\net6.0-windows\InterfaceAula.dll
+D:\Windows\Desktop\C#\vs\InterfaceAula\InterfaceAula\bin\Debug\net6.0-windows\InterfaceAula.pdb
+D:\Windows\Desktop\C#\vs\InterfaceAula\InterfaceAula\obj\Debug\net6.0-windows\InterfaceAula.csproj.AssemblyReference.cache
+D:\Windows\Desktop\C#\vs\InterfaceAula\InterfaceAula\obj\Debug\net6.0-windows\InterfaceAula.Form1.resources
+D:\Windows\Desktop\C#\vs\InterfaceAula\InterfaceAula\obj\Debug\net6.0-windows\InterfaceAula.csproj.GenerateResource.cache
+D:\Windows\Desktop\C#\vs\InterfaceAula\InterfaceAula\obj\Debug\net6.0-windows\InterfaceAula.GeneratedMSBuildEditorConfig.editorconfig
+D:\Windows\Desktop\C#\vs\InterfaceAula\InterfaceAula\obj\Debug\net6.0-windows\InterfaceAula.AssemblyInfoInputs.cache
+D:\Windows\Desktop\C#\vs\InterfaceAula\InterfaceAula\obj\Debug\net6.0-windows\InterfaceAula.AssemblyInfo.cs
+D:\Windows\Desktop\C#\vs\InterfaceAula\InterfaceAula\obj\Debug\net6.0-windows\InterfaceAula.csproj.CoreCompileInputs.cache
+D:\Windows\Desktop\C#\vs\InterfaceAula\InterfaceAula\obj\Debug\net6.0-windows\InterfaceAula.dll
+D:\Windows\Desktop\C#\vs\InterfaceAula\InterfaceAula\obj\Debug\net6.0-windows\refint\InterfaceAula.dll
+D:\Windows\Desktop\C#\vs\InterfaceAula\InterfaceAula\obj\Debug\net6.0-windows\InterfaceAula.pdb
+D:\Windows\Desktop\C#\vs\InterfaceAula\InterfaceAula\obj\Debug\net6.0-windows\InterfaceAula.genruntimeconfig.cache
+D:\Windows\Desktop\C#\vs\InterfaceAula\InterfaceAula\obj\Debug\net6.0-windows\ref\InterfaceAula.dll

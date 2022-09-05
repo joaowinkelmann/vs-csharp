@@ -1,0 +1,405 @@
+// PAR OU IMPAR
+
+using System;
+
+namespace MyApp // Note: actual namespace depends on the project name.
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int[] v = new int[10];
+            int i;
+
+            for (i = 0; i < 10; i++)
+            {
+                Console.WriteLine("Digite o número " + (i + 1)  + ": ");
+                v[i] = Convert.ToInt32(Console.ReadLine());
+            }
+
+            for (i = 0; i < 10; i++)
+            {
+                if (v[i] % 2 == 0)
+                {
+                    Console.WriteLine(v[i] + " é par");
+                }
+                else
+                {
+                    Console.WriteLine(v[i] + " é ímpar");
+                }
+            }
+            Console.ReadKey();
+        }
+    }
+}
+
+
+//MATRIZ
+
+using System;
+
+namespace MyApp // Note: actual namespace depends on the project name.
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            string[,] matriz = new string[2, 2];
+
+            matriz[0, 0] = "Coisa";
+            matriz[0, 1] = "Coisa de novo";
+            matriz[1, 0] = "Coisas";
+            matriz[1, 1] = "Teste";
+
+            Console.ReadLine();
+
+            Console.WriteLine(matriz[0, 0]);
+            Console.WriteLine(matriz[0, 1]);
+            Console.WriteLine(matriz[1, 0]);
+            Console.WriteLine(matriz[1, 1]);
+
+            Console.ReadKey();
+        }
+    }
+}
+
+
+//BINGO MATRIZ
+using System;
+
+namespace MyApp // Note: actual namespace depends on the project name.
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int[,] bingo = new int[2, 2];
+
+            for (int i = 0; i < 2; i++)
+            {
+                for (int j = 0; j < 2; j++)
+                {
+                    Console.WriteLine(String.Format("Insira o valor do elemento ({0}, {1})", i, j));
+                    bingo[i, j] = int.Parse(Console.ReadLine());
+                }
+            }
+
+            Console.WriteLine();
+            Console.WriteLine();
+
+
+            for (int i = 0; i < 2; i++)
+            {
+                Console.Write("| ");
+                for(int j = 0; j < 2; j++)
+                {
+                    Console.Write(bingo[i, j] + " ");
+                }
+                Console.WriteLine("|");
+            }
+        }
+    }
+}
+
+
+
+//EXFUNCOES
+
+using System;
+
+namespace MyApp // Note: actual namespace depends on the project name.
+{
+    internal class Program
+    {
+
+        public static void multiplica()
+        {
+            int a, b, resultado;
+            Console.WriteLine("Insira dois numeros");
+            a = int.Parse(Console.ReadLine());
+            b = int.Parse(Console.ReadLine());
+            resultado = a * b;
+            Console.WriteLine("O resultado da multiplicação é igual a " + resultado);
+        }
+        static void Main(string[] args)
+        {
+            multiplica();
+        }
+    }
+}
+
+//SOMA
+
+using System;
+
+namespace MyApp // Note: actual namespace depends on the project name.
+{
+    internal class Program
+    {
+        public static void soma(int x, int y)
+        {
+            int resultado;
+            resultado = x + y;
+            Console.WriteLine("O resultado da soma foi igual a " + resultado);
+        }
+
+        static void Main(string[] args)
+        {
+            int num1, num2;
+            Console.WriteLine("Insira dois numeros");
+            num1 = int.Parse(Console.ReadLine());
+            num2 = int.Parse(Console.ReadLine());
+            soma(num1, num2);
+            Console.ReadKey();
+        }
+    }
+}
+
+
+//SUBTRACAO func-return
+using System;
+
+namespace MyApp // Note: actual namespace depends on the project name.
+{
+    internal class Program
+    {
+        public static int subtrai()
+        {
+            int x, y, resultado;
+            Console.WriteLine("Insira dois numeros");
+            x = int.Parse(Console.ReadLine());
+            y = int.Parse(Console.ReadLine());
+            resultado = x - y;
+            return resultado;
+        }
+
+        static void Main(string[] args)
+        {
+            int x;
+            x = subtrai();
+            Console.WriteLine("O resultado da subtração é igual a " + x);
+            Console.ReadKey();
+        }
+    }
+}
+
+//FORMS Form1.cs
+
+namespace Formulario
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lblnum1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnSomar_Click(object sender, EventArgs e)
+        {
+            int numA, numB, resultado;
+
+            numA = Convert.ToInt32(num1.Text);
+            numB = Convert.ToInt32(num2.Text);
+
+            resultado = numA + numB;
+
+            num3.Text = resultado.ToString();
+        }
+    }
+}
+
+//FORMS Form1.Designer.cs
+
+namespace Formulario
+{
+    partial class Form1
+    {
+        /// <summary>
+        ///  Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        ///  Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        ///  Required method for Designer support - do not modify
+        ///  the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.btnSomar = new System.Windows.Forms.Button();
+            this.num1 = new System.Windows.Forms.TextBox();
+            this.num2 = new System.Windows.Forms.TextBox();
+            this.num3 = new System.Windows.Forms.TextBox();
+            this.lblnum1 = new System.Windows.Forms.Label();
+            this.lblnum2 = new System.Windows.Forms.Label();
+            this.lblnum3 = new System.Windows.Forms.Label();
+            this.SuspendLayout();
+            // 
+            // btnSomar
+            // 
+            this.btnSomar.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.btnSomar.Location = new System.Drawing.Point(509, 150);
+            this.btnSomar.Name = "btnSomar";
+            this.btnSomar.Size = new System.Drawing.Size(123, 51);
+            this.btnSomar.TabIndex = 0;
+            this.btnSomar.Text = "Somar";
+            this.btnSomar.UseVisualStyleBackColor = true;
+            this.btnSomar.UseWaitCursor = true;
+            this.btnSomar.Click += new System.EventHandler(this.btnSomar_Click);
+            // 
+            // num1
+            // 
+            this.num1.Location = new System.Drawing.Point(83, 124);
+            this.num1.Name = "num1";
+            this.num1.Size = new System.Drawing.Size(133, 23);
+            this.num1.TabIndex = 1;
+            this.num1.UseWaitCursor = true;
+            // 
+            // num2
+            // 
+            this.num2.Location = new System.Drawing.Point(83, 167);
+            this.num2.Name = "num2";
+            this.num2.Size = new System.Drawing.Size(133, 23);
+            this.num2.TabIndex = 2;
+            this.num2.UseWaitCursor = true;
+            // 
+            // num3
+            // 
+            this.num3.Location = new System.Drawing.Point(83, 210);
+            this.num3.Name = "num3";
+            this.num3.Size = new System.Drawing.Size(133, 23);
+            this.num3.TabIndex = 3;
+            this.num3.UseWaitCursor = true;
+            // 
+            // lblnum1
+            // 
+            this.lblnum1.AutoSize = true;
+            this.lblnum1.Location = new System.Drawing.Point(83, 106);
+            this.lblnum1.Name = "lblnum1";
+            this.lblnum1.Size = new System.Drawing.Size(113, 15);
+            this.lblnum1.TabIndex = 4;
+            this.lblnum1.Text = "Informe o numero 1";
+            this.lblnum1.UseWaitCursor = true;
+            this.lblnum1.Click += new System.EventHandler(this.lblnum1_Click);
+            // 
+            // lblnum2
+            // 
+            this.lblnum2.AutoSize = true;
+            this.lblnum2.Location = new System.Drawing.Point(83, 150);
+            this.lblnum2.Name = "lblnum2";
+            this.lblnum2.Size = new System.Drawing.Size(113, 15);
+            this.lblnum2.TabIndex = 5;
+            this.lblnum2.Text = "Informe o numero 2";
+            this.lblnum2.UseWaitCursor = true;
+            // 
+            // lblnum3
+            // 
+            this.lblnum3.AutoSize = true;
+            this.lblnum3.Location = new System.Drawing.Point(83, 193);
+            this.lblnum3.Name = "lblnum3";
+            this.lblnum3.Size = new System.Drawing.Size(59, 15);
+            this.lblnum3.TabIndex = 6;
+            this.lblnum3.Text = "Resultado";
+            this.lblnum3.UseWaitCursor = true;
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.lblnum3);
+            this.Controls.Add(this.lblnum2);
+            this.Controls.Add(this.lblnum1);
+            this.Controls.Add(this.num3);
+            this.Controls.Add(this.num2);
+            this.Controls.Add(this.num1);
+            this.Controls.Add(this.btnSomar);
+            this.Name = "Form1";
+            this.Text = "Somador";
+            this.UseWaitCursor = true;
+            this.Load += new System.EventHandler(this.Form1_Load);
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private Button btnSomar;
+        private TextBox num1;
+        private TextBox num2;
+        private TextBox num3;
+        private Label lblnum1;
+        private Label lblnum2;
+        private Label lblnum3;
+    }
+}
+
+//FORMS MediaNotas Form1.cs
+
+namespace notasforms_oficial
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void btnCalcular_Click(object sender, EventArgs e)
+        {
+            decimal nota1, nota2, nota3, nota4, maiornota, menornota, media;
+
+            nota1 = Convert.ToDecimal(txtNota1.Text);
+            nota2 = Convert.ToDecimal(txtNota2.Text);
+            nota3 = Convert.ToDecimal(txtNota3.Text);
+            nota4 = Convert.ToDecimal(txtNota4.Text);
+
+            maiornota = Convert.ToDecimal(IsTextValidated(lblmaiornota.Text));
+            menornota = Convert.ToDecimal(IsTextValidated(lblmenornota.Text));
+            media = Convert.ToDecimal(IsTextValidated(lblMediaRes.Text));
+
+            //if Maior Nota
+            if (nota1 > nota2 && nota1 > nota3 && nota1 > nota4)
+            {
+                maiornota = nota1;
+            }
+            else if (nota2 > nota1 && nota2 > nota3 && nota2 > nota4)
+            {
+                maiornota = nota2;
+            }
+            else if (nota3 > nota1 && nota3 > nota2 && nota3 > nota4)
+            {
+                maiornota = nota3;
+            }
+            else
+            {
+                maiornota = nota4;
+            }
+        }
+    }
+}

@@ -1,0 +1,15 @@
+D:\Windows\Desktop\C#\vs\VetorConversao\VetorConversao\bin\Debug\net6.0\VetorConversao.exe
+D:\Windows\Desktop\C#\vs\VetorConversao\VetorConversao\bin\Debug\net6.0\VetorConversao.deps.json
+D:\Windows\Desktop\C#\vs\VetorConversao\VetorConversao\bin\Debug\net6.0\VetorConversao.runtimeconfig.json
+D:\Windows\Desktop\C#\vs\VetorConversao\VetorConversao\bin\Debug\net6.0\VetorConversao.dll
+D:\Windows\Desktop\C#\vs\VetorConversao\VetorConversao\bin\Debug\net6.0\VetorConversao.pdb
+D:\Windows\Desktop\C#\vs\VetorConversao\VetorConversao\obj\Debug\net6.0\VetorConversao.csproj.AssemblyReference.cache
+D:\Windows\Desktop\C#\vs\VetorConversao\VetorConversao\obj\Debug\net6.0\VetorConversao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Windows\Desktop\C#\vs\VetorConversao\VetorConversao\obj\Debug\net6.0\VetorConversao.AssemblyInfoInputs.cache
+D:\Windows\Desktop\C#\vs\VetorConversao\VetorConversao\obj\Debug\net6.0\VetorConversao.AssemblyInfo.cs
+D:\Windows\Desktop\C#\vs\VetorConversao\VetorConversao\obj\Debug\net6.0\VetorConversao.csproj.CoreCompileInputs.cache
+D:\Windows\Desktop\C#\vs\VetorConversao\VetorConversao\obj\Debug\net6.0\VetorConversao.dll
+D:\Windows\Desktop\C#\vs\VetorConversao\VetorConversao\obj\Debug\net6.0\refint\VetorConversao.dll
+D:\Windows\Desktop\C#\vs\VetorConversao\VetorConversao\obj\Debug\net6.0\VetorConversao.pdb
+D:\Windows\Desktop\C#\vs\VetorConversao\VetorConversao\obj\Debug\net6.0\VetorConversao.genruntimeconfig.cache
+D:\Windows\Desktop\C#\vs\VetorConversao\VetorConversao\obj\Debug\net6.0\ref\VetorConversao.dll

@@ -1,0 +1,17 @@
+D:\Windows\Desktop\C#\vs\Formulario\Formulario\bin\Debug\net6.0-windows\Formulario.exe
+D:\Windows\Desktop\C#\vs\Formulario\Formulario\bin\Debug\net6.0-windows\Formulario.deps.json
+D:\Windows\Desktop\C#\vs\Formulario\Formulario\bin\Debug\net6.0-windows\Formulario.runtimeconfig.json
+D:\Windows\Desktop\C#\vs\Formulario\Formulario\bin\Debug\net6.0-windows\Formulario.dll
+D:\Windows\Desktop\C#\vs\Formulario\Formulario\bin\Debug\net6.0-windows\Formulario.pdb
+D:\Windows\Desktop\C#\vs\Formulario\Formulario\obj\Debug\net6.0-windows\Formulario.csproj.AssemblyReference.cache
+D:\Windows\Desktop\C#\vs\Formulario\Formulario\obj\Debug\net6.0-windows\Formulario.Form1.resources
+D:\Windows\Desktop\C#\vs\Formulario\Formulario\obj\Debug\net6.0-windows\Formulario.csproj.GenerateResource.cache
+D:\Windows\Desktop\C#\vs\Formulario\Formulario\obj\Debug\net6.0-windows\Formulario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Windows\Desktop\C#\vs\Formulario\Formulario\obj\Debug\net6.0-windows\Formulario.AssemblyInfoInputs.cache
+D:\Windows\Desktop\C#\vs\Formulario\Formulario\obj\Debug\net6.0-windows\Formulario.AssemblyInfo.cs
+D:\Windows\Desktop\C#\vs\Formulario\Formulario\obj\Debug\net6.0-windows\Formulario.csproj.CoreCompileInputs.cache
+D:\Windows\Desktop\C#\vs\Formulario\Formulario\obj\Debug\net6.0-windows\Formulario.dll
+D:\Windows\Desktop\C#\vs\Formulario\Formulario\obj\Debug\net6.0-windows\refint\Formulario.dll
+D:\Windows\Desktop\C#\vs\Formulario\Formulario\obj\Debug\net6.0-windows\Formulario.pdb
+D:\Windows\Desktop\C#\vs\Formulario\Formulario\obj\Debug\net6.0-windows\Formulario.genruntimeconfig.cache
+D:\Windows\Desktop\C#\vs\Formulario\Formulario\obj\Debug\net6.0-windows\ref\Formulario.dll

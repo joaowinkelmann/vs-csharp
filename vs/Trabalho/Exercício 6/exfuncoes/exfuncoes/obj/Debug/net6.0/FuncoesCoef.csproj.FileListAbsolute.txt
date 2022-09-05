@@ -1,0 +1,15 @@
+D:\Windows\Desktop\C#\vs\exfuncoes\exfuncoes\bin\Debug\net6.0\FuncoesCoef.exe
+D:\Windows\Desktop\C#\vs\exfuncoes\exfuncoes\bin\Debug\net6.0\FuncoesCoef.deps.json
+D:\Windows\Desktop\C#\vs\exfuncoes\exfuncoes\bin\Debug\net6.0\FuncoesCoef.runtimeconfig.json
+D:\Windows\Desktop\C#\vs\exfuncoes\exfuncoes\bin\Debug\net6.0\FuncoesCoef.dll
+D:\Windows\Desktop\C#\vs\exfuncoes\exfuncoes\bin\Debug\net6.0\FuncoesCoef.pdb
+D:\Windows\Desktop\C#\vs\exfuncoes\exfuncoes\obj\Debug\net6.0\FuncoesCoef.csproj.AssemblyReference.cache
+D:\Windows\Desktop\C#\vs\exfuncoes\exfuncoes\obj\Debug\net6.0\FuncoesCoef.GeneratedMSBuildEditorConfig.editorconfig
+D:\Windows\Desktop\C#\vs\exfuncoes\exfuncoes\obj\Debug\net6.0\FuncoesCoef.AssemblyInfoInputs.cache
+D:\Windows\Desktop\C#\vs\exfuncoes\exfuncoes\obj\Debug\net6.0\FuncoesCoef.AssemblyInfo.cs
+D:\Windows\Desktop\C#\vs\exfuncoes\exfuncoes\obj\Debug\net6.0\FuncoesCoef.csproj.CoreCompileInputs.cache
+D:\Windows\Desktop\C#\vs\exfuncoes\exfuncoes\obj\Debug\net6.0\FuncoesCoef.dll
+D:\Windows\Desktop\C#\vs\exfuncoes\exfuncoes\obj\Debug\net6.0\refint\FuncoesCoef.dll
+D:\Windows\Desktop\C#\vs\exfuncoes\exfuncoes\obj\Debug\net6.0\FuncoesCoef.pdb
+D:\Windows\Desktop\C#\vs\exfuncoes\exfuncoes\obj\Debug\net6.0\FuncoesCoef.genruntimeconfig.cache
+D:\Windows\Desktop\C#\vs\exfuncoes\exfuncoes\obj\Debug\net6.0\ref\FuncoesCoef.dll

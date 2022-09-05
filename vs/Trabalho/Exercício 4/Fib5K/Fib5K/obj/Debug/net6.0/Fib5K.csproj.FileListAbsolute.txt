@@ -1,0 +1,15 @@
+D:\Windows\Desktop\C#\vs\Fib5K\Fib5K\obj\Debug\net6.0\Fib5K.csproj.AssemblyReference.cache
+D:\Windows\Desktop\C#\vs\Fib5K\Fib5K\obj\Debug\net6.0\Fib5K.GeneratedMSBuildEditorConfig.editorconfig
+D:\Windows\Desktop\C#\vs\Fib5K\Fib5K\obj\Debug\net6.0\Fib5K.AssemblyInfoInputs.cache
+D:\Windows\Desktop\C#\vs\Fib5K\Fib5K\obj\Debug\net6.0\Fib5K.AssemblyInfo.cs
+D:\Windows\Desktop\C#\vs\Fib5K\Fib5K\obj\Debug\net6.0\Fib5K.csproj.CoreCompileInputs.cache
+D:\Windows\Desktop\C#\vs\Fib5K\Fib5K\bin\Debug\net6.0\Fib5K.exe
+D:\Windows\Desktop\C#\vs\Fib5K\Fib5K\bin\Debug\net6.0\Fib5K.deps.json
+D:\Windows\Desktop\C#\vs\Fib5K\Fib5K\bin\Debug\net6.0\Fib5K.runtimeconfig.json
+D:\Windows\Desktop\C#\vs\Fib5K\Fib5K\bin\Debug\net6.0\Fib5K.dll
+D:\Windows\Desktop\C#\vs\Fib5K\Fib5K\bin\Debug\net6.0\Fib5K.pdb
+D:\Windows\Desktop\C#\vs\Fib5K\Fib5K\obj\Debug\net6.0\Fib5K.dll
+D:\Windows\Desktop\C#\vs\Fib5K\Fib5K\obj\Debug\net6.0\refint\Fib5K.dll
+D:\Windows\Desktop\C#\vs\Fib5K\Fib5K\obj\Debug\net6.0\Fib5K.pdb
+D:\Windows\Desktop\C#\vs\Fib5K\Fib5K\obj\Debug\net6.0\Fib5K.genruntimeconfig.cache
+D:\Windows\Desktop\C#\vs\Fib5K\Fib5K\obj\Debug\net6.0\ref\Fib5K.dll

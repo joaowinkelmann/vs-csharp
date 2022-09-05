@@ -1,0 +1,15 @@
+D:\Windows\Desktop\C#\vs\VetorParImpar\VetorParImpar\bin\Debug\net6.0\VetorParImpar.exe
+D:\Windows\Desktop\C#\vs\VetorParImpar\VetorParImpar\bin\Debug\net6.0\VetorParImpar.deps.json
+D:\Windows\Desktop\C#\vs\VetorParImpar\VetorParImpar\bin\Debug\net6.0\VetorParImpar.runtimeconfig.json
+D:\Windows\Desktop\C#\vs\VetorParImpar\VetorParImpar\bin\Debug\net6.0\VetorParImpar.dll
+D:\Windows\Desktop\C#\vs\VetorParImpar\VetorParImpar\bin\Debug\net6.0\VetorParImpar.pdb
+D:\Windows\Desktop\C#\vs\VetorParImpar\VetorParImpar\obj\Debug\net6.0\VetorParImpar.csproj.AssemblyReference.cache
+D:\Windows\Desktop\C#\vs\VetorParImpar\VetorParImpar\obj\Debug\net6.0\VetorParImpar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Windows\Desktop\C#\vs\VetorParImpar\VetorParImpar\obj\Debug\net6.0\VetorParImpar.AssemblyInfoInputs.cache
+D:\Windows\Desktop\C#\vs\VetorParImpar\VetorParImpar\obj\Debug\net6.0\VetorParImpar.AssemblyInfo.cs
+D:\Windows\Desktop\C#\vs\VetorParImpar\VetorParImpar\obj\Debug\net6.0\VetorParImpar.csproj.CoreCompileInputs.cache
+D:\Windows\Desktop\C#\vs\VetorParImpar\VetorParImpar\obj\Debug\net6.0\VetorParImpar.dll
+D:\Windows\Desktop\C#\vs\VetorParImpar\VetorParImpar\obj\Debug\net6.0\refint\VetorParImpar.dll
+D:\Windows\Desktop\C#\vs\VetorParImpar\VetorParImpar\obj\Debug\net6.0\VetorParImpar.pdb
+D:\Windows\Desktop\C#\vs\VetorParImpar\VetorParImpar\obj\Debug\net6.0\VetorParImpar.genruntimeconfig.cache
+D:\Windows\Desktop\C#\vs\VetorParImpar\VetorParImpar\obj\Debug\net6.0\ref\VetorParImpar.dll

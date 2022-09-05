@@ -1,0 +1,15 @@
+D:\Windows\Desktop\C#\vs\exfuncoes\exfuncoes\obj\Debug\net6.0\exfuncoes.csproj.AssemblyReference.cache
+D:\Windows\Desktop\C#\vs\exfuncoes\exfuncoes\obj\Debug\net6.0\exfuncoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Windows\Desktop\C#\vs\exfuncoes\exfuncoes\obj\Debug\net6.0\exfuncoes.AssemblyInfoInputs.cache
+D:\Windows\Desktop\C#\vs\exfuncoes\exfuncoes\obj\Debug\net6.0\exfuncoes.AssemblyInfo.cs
+D:\Windows\Desktop\C#\vs\exfuncoes\exfuncoes\obj\Debug\net6.0\exfuncoes.csproj.CoreCompileInputs.cache
+D:\Windows\Desktop\C#\vs\exfuncoes\exfuncoes\bin\Debug\net6.0\exfuncoes.exe
+D:\Windows\Desktop\C#\vs\exfuncoes\exfuncoes\bin\Debug\net6.0\exfuncoes.deps.json
+D:\Windows\Desktop\C#\vs\exfuncoes\exfuncoes\bin\Debug\net6.0\exfuncoes.runtimeconfig.json
+D:\Windows\Desktop\C#\vs\exfuncoes\exfuncoes\bin\Debug\net6.0\exfuncoes.dll
+D:\Windows\Desktop\C#\vs\exfuncoes\exfuncoes\bin\Debug\net6.0\exfuncoes.pdb
+D:\Windows\Desktop\C#\vs\exfuncoes\exfuncoes\obj\Debug\net6.0\exfuncoes.dll
+D:\Windows\Desktop\C#\vs\exfuncoes\exfuncoes\obj\Debug\net6.0\refint\exfuncoes.dll
+D:\Windows\Desktop\C#\vs\exfuncoes\exfuncoes\obj\Debug\net6.0\exfuncoes.pdb
+D:\Windows\Desktop\C#\vs\exfuncoes\exfuncoes\obj\Debug\net6.0\exfuncoes.genruntimeconfig.cache
+D:\Windows\Desktop\C#\vs\exfuncoes\exfuncoes\obj\Debug\net6.0\ref\exfuncoes.dll

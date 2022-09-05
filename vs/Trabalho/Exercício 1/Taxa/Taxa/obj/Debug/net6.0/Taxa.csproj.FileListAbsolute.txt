@@ -1,0 +1,15 @@
+D:\Windows\Desktop\C#\vs\Taxa\Taxa\bin\Debug\net6.0\Taxa.exe
+D:\Windows\Desktop\C#\vs\Taxa\Taxa\bin\Debug\net6.0\Taxa.deps.json
+D:\Windows\Desktop\C#\vs\Taxa\Taxa\bin\Debug\net6.0\Taxa.runtimeconfig.json
+D:\Windows\Desktop\C#\vs\Taxa\Taxa\bin\Debug\net6.0\Taxa.dll
+D:\Windows\Desktop\C#\vs\Taxa\Taxa\bin\Debug\net6.0\Taxa.pdb
+D:\Windows\Desktop\C#\vs\Taxa\Taxa\obj\Debug\net6.0\Taxa.csproj.AssemblyReference.cache
+D:\Windows\Desktop\C#\vs\Taxa\Taxa\obj\Debug\net6.0\Taxa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Windows\Desktop\C#\vs\Taxa\Taxa\obj\Debug\net6.0\Taxa.AssemblyInfoInputs.cache
+D:\Windows\Desktop\C#\vs\Taxa\Taxa\obj\Debug\net6.0\Taxa.AssemblyInfo.cs
+D:\Windows\Desktop\C#\vs\Taxa\Taxa\obj\Debug\net6.0\Taxa.csproj.CoreCompileInputs.cache
+D:\Windows\Desktop\C#\vs\Taxa\Taxa\obj\Debug\net6.0\Taxa.dll
+D:\Windows\Desktop\C#\vs\Taxa\Taxa\obj\Debug\net6.0\refint\Taxa.dll
+D:\Windows\Desktop\C#\vs\Taxa\Taxa\obj\Debug\net6.0\Taxa.pdb
+D:\Windows\Desktop\C#\vs\Taxa\Taxa\obj\Debug\net6.0\Taxa.genruntimeconfig.cache
+D:\Windows\Desktop\C#\vs\Taxa\Taxa\obj\Debug\net6.0\ref\Taxa.dll
